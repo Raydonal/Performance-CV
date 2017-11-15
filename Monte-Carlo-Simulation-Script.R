@@ -1,5 +1,5 @@
 # ---------------------------------------------------------------------------------------
-# --------------- Reproduciblre Research  -----------------------------------------------
+# --------------- Reproducible Research  -----------------------------------------------
 # Script to reproduce the results on paper: 
 # Performance of several estimators of the coefficient of 
 # variation under distributional specification of the data
